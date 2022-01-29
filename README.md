@@ -1,5 +1,5 @@
 ## Olá, eu me chamo Enzo!  
-- 🎂 Tenho 16 anos e estou estudando python
+- 🎂 Tenho 16 anos e atualmente estou estudando python, java e sql
 
 <div align="center">
   <a href="https://github.com/enzogostadebolo">
@@ -9,6 +9,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Enzo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Enzo-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
   ##
