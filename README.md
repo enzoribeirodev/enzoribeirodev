@@ -1,5 +1,5 @@
 ## Olá, eu me chamo Enzo!  
-- 🎂 Tenho 16 anos e atualmente estou estudando python, java e sql
+- 🎂 Tenho 16 anos e atualmente estou estudando Python, Júlia, SQL e Java!
 
 <div align="center">
   <a href="https://github.com/enzogostadebolo">
