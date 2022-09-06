@@ -11,6 +11,7 @@
   <img align="center" alt="Enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Enzo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Enzo-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Enzo-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg">
 </div>
 
   ##
