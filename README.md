@@ -1,5 +1,5 @@
 ## Welcome to my profile =D  
-- 🎂 Im 17 years old
+- 🎂 Im 18 years old
 - 💻 Im currently studying FastAPI and Django
 - 🤔 Interested in Rails
 - 🥰 I love learning new things
