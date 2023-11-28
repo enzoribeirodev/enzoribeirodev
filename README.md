@@ -1,7 +1,6 @@
 ## Welcome to my profile =D  
 - 🎂 Im 18 years old
 - 💻 Im currently studying FastAPI and Django
-- 🤔 Interested in Rails
 - 🥰 I love learning new things
 - ☕ You can talk with me on [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzorib.dev@gmail.com) or [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https//api.whatsapp.com/send/?phone=5571996585827&text&type=phone_number&app_absent=0)
 
