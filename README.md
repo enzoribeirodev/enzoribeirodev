@@ -1,4 +1,4 @@
-## Welcome to my profile =D  
+## Welcome to my profile =]
 - 🎂 Im 18 years old
 - 💻 Im currently studying FastAPI and Django
 - 🥰 I love learning new things
