@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil =]
 
-👋 Olá! Meu nome é Enzo, tenho 18 anos e sou estudante de Matemática na Universidade Federal da Bahia. Sou apaixonado por ciência de dados, estatística e matemática, e estou constantemente trabalhando em projetos envolvendo essas áreas.
+👋 Olá! Meu nome é Enzo, tenho 19 anos e sou estudante de Matemática na Universidade Federal da Bahia. Sou apaixonado por ciência de dados, estatística e matemática, e estou constantemente trabalhando em projetos envolvendo essas áreas.
 
 🛠️ Minhas Hard Skills incluem:
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, opencv, flask, selenium, ambientes virtuais)
