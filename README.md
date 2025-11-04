@@ -1,18 +1,28 @@
-## Bem vindo ao meu perfil =]
+Sou Enzo Ribeiro, estudante de Matemática na UFBA e apaixonado por Ciência de Dados, Estatística e Machine Learning.
+Transformo dados em soluções inteligentes por meio de modelagem estatística, aprendizado de máquina e computação em nuvem.
 
-👋 Olá! Meu nome é Enzo, tenho 19 anos e sou estudante de Matemática na Universidade Federal da Bahia. Sou apaixonado por ciência de dados, estatística e matemática, e estou constantemente trabalhando em projetos envolvendo essas áreas.
+🚀 O que desenvolvo:
 
-🛠️ Minhas Hard Skills incluem:
-- Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, opencv, flask, selenium, ambientes virtuais)
-- SQL
-- Machine Learning (classificação, regressão, clustering)
-- Git e Github (versionamento de código)
-- Estatística descritiva e inferencial aplicada à dados 
-- Javascript.
-  
-💡 Minhas soft skills incluem:
-- Aprendizagem autodidata
-- Comunicação eficaz
-- Trabalho em equipe
-- Adaptabilidade rápida
-  
+Modelos de classificação, regressão e clustering;
+
+Pipelines de dados e automações usando Python, SQL e Google Cloud Platform;
+
+Integrações e análises com foco em escalabilidade e confiabilidade;
+
+Projetos de pesquisa em Processamento de Imagens, com aplicações de otimização e análise científica.
+
+🧠 Stack principal:
+
+Python (pandas, numpy, scikit-learn, statsmodels, opencv, flask)
+
+SQL | PySpark | BigQuery | GCP
+
+Estatística aplicada, testes A/B e EDA
+
+Git e GitHub
+
+📘 Atualmente estudando:
+
+Deep Learning com ênfase em NLP
+
+Teoria estatística e otimização matemática aplicada a IA
