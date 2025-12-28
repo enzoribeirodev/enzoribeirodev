@@ -25,6 +25,8 @@ Transformo dados em soluções inteligentes por meio de modelagem estatística, 
 
 - Deep Learning com ênfase em NLP
 
+- Análise de Séries Temporais 
+
 - Métodos de otimização
 
 - Estatística aplicada
