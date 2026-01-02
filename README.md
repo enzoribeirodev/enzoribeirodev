@@ -15,6 +15,8 @@ Transformo dados em soluções inteligentes por meio de modelagem estatística, 
 
 - Python (pandas, numpy, scikit-learn, statsmodels, opencv, flask)
 
+- R 
+
 - SQL | PySpark | BigQuery | GCP
 
 - Estatística aplicada, testes A/B e EDA
