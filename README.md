@@ -31,4 +31,4 @@ Transformo dados em soluções inteligentes por meio de modelagem estatística, 
 
 - Métodos de otimização
 
-- Estatística aplicada
+- Inferência Causal
